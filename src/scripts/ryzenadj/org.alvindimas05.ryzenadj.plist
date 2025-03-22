@@ -18,18 +18,17 @@
 	<key>ProgramArguments</key>
 	<array>
 		<string>/usr/local/bin/ryzenadj</string>
-		<string>--stapm-limit=13000</string>
-		<string>--slow-limit=14000</string>
-		<string>--fast-limit=15000</string>
-		<string>--vrm-current=11000</string>
-		<string>--vrmmax-current=16000</string>
+		<string>--stapm-limit=33000</string>
+		<string>--slow-limit=34000</string>
+		<string>--fast-limit=35000</string>
+		<string>--vrm-current=31000</string>
+		<string>--vrmmax-current=36000</string>
 		<string>--vrmsoc-current=0</string>
 		<string>--vrmsocmax-current=0</string>
-		<string>--vrmgfx-current=0</string>
 		<string>--psi0-current=0</string>
 		<string>--psi0soc-current=0</string>
-		<string>--tctl-temp=59</string>
-		<string>--apu-skin-temp=59</string>
+		<string>--tctl-temp=95</string>
+		<string>--apu-skin-temp=95</string>
 		<string>--stapm-time=64</string>
 		<string>--slow-time=128</string>
 		<string>--power-saving</string>
